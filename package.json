@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@codemirror/theme-one-dark": "^6.1.2",
+    "codemirror": "^6.0.1",
     "vue": "^3.3.2",
     "vue-codemirror": "^6.1.1"
   },
